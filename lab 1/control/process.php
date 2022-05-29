@@ -14,6 +14,8 @@ echo "Your 1st Number : ".$number1. " and ";
 $number2 = $_POST["number2"];
 $number2 = (float)$number2;
 echo "Your 2nd Number : ".$number2;
+
+
 $button = $_POST["button"];
 echo "<br>";
 
