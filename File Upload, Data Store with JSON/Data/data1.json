@@ -1,0 +1,25 @@
+[
+    {
+        "firstname": "Romona",
+        "lastname": "Magdalene",
+        "email": "sarkarmagdalene3@gmail.com"
+    },
+    {
+        "firstname": "Romona",
+        "lastname": "Magdalene",
+        "email": "sarkarmagdalene3@gmail.com"
+    },
+    {
+        "firstname": "Romona",
+        "lastname": "Magdalene",
+        "email": "sarkarmagdalene3@gmail.com",
+        "image": "images.jpg"
+    },
+    {
+        "firstname": "Romona",
+        "lastname": "Magdalene",
+        "email": "sarkarmagdalene3@gmail.com",
+        "image": "images.jpg",
+        "password": "1234"
+    }
+]
